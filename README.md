@@ -8,4 +8,4 @@
  <br>
  <br>
   
- <img src="https://github.com/BrunoRael/Projeto-Phone/blob/master/phone.png?raw=true">
+ <img src="[https://github.com/BrunoRael/Projeto-Phone/blob/master/phone.png?raw=true](http://127.0.0.1:5500/img-phone.png)">
