@@ -1,11 +1,13 @@
-<h1>Easy shopping via mobile<h1>
-<br>
-<p>Mais um projeto realizado com o aprendizado que estou tendo no <a href="https://rodolfomori.com.br/devclub/">Devclub<a>, usando:<p>
-  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO">
+# 📱 Easy Shopping Via Mobile
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO"> 
- <br>
- <br>
-  
- <img src="https://github.com/BrunoRael/Projeto-Phone/blob/master/phone.png?raw=true](http://127.0.0.1:5500/img-phone.png">
+* Este projeto consiste em uma landing page responsiva desenvolvida com <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO"> e <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO"> , simulando a apresentação de uma plataforma de compras voltada para dispositivos móveis.
+
+* A interface foi construída com um layout dividido em duas seções principais: uma área de destaque com título, descrição e botão de ação, e uma área visual com navegação e imagem ilustrativa do aplicativo. O objetivo é apresentar um design moderno, limpo e focado na experiência do usuário.
+
+* Durante o desenvolvimento foram aplicados conceitos importantes de front-end, como estruturação semântica do HTML, estilização com CSS, posicionamento de elementos, uso de tipografia externa (Google Fonts) e responsividade utilizando media queries, garantindo que a interface se adapte corretamente a diferentes tamanhos de tela.
+
+
+ 🔗 Acesse o projeto online: https://brunorael.github.io/Projeto-Phone/
+
+ <img src="./assets/phone.png">
+ <img src="./assets/phone-responsivo.jpeg">
